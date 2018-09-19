@@ -1,5 +1,6 @@
 # Getting Started
 ---
+Say something witty here.
 
 ### Before you begin
 1. Create a new [Cloud Platform project](https://console.developers.google.com/projectcreate).
